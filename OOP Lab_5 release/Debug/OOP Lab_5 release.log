@@ -1,0 +1,27 @@
+﻿  MainClass.cpp
+d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\mainclass.cpp(135): warning C4551: в вызове функции отсутствует список аргументов
+d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\myclass.h(197): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+  d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\myclass.h(175): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\mainclass.cpp(58): note: выполняется компиляция ссылки на экземпляр шаблон функции "Array<Complex> Array<Complex>::operator /(const Array<Complex> &)"
+  d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\mainclass.cpp(116): note: выполняется компиляция ссылки на экземпляр шаблон класс "Array<Complex>"
+d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\myclass.h(141): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+  d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\myclass.h(127): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\mainclass.cpp(65): note: выполняется компиляция ссылки на экземпляр шаблон функции "Array<Complex> Array<Complex>::operator -(const double)"
+d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\myclass.h(100): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+  d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\myclass.h(86): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\mainclass.cpp(58): note: выполняется компиляция ссылки на экземпляр шаблон функции "Array<Complex> Array<Complex>::operator +(const double)"
+d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\myclass.h(140): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\myclass.h(127): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\mainclass.cpp(65): note: выполняется компиляция ссылки на экземпляр шаблон функции "Array<int> Array<int>::operator -(const double)"
+  d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\mainclass.cpp(102): note: выполняется компиляция ссылки на экземпляр шаблон класс "Array<int>"
+d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\myclass.h(99): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\myclass.h(86): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\mainclass.cpp(58): note: выполняется компиляция ссылки на экземпляр шаблон функции "Array<int> Array<int>::operator +(const double)"
+d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\myclass.h(280): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\myclass.h(275): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\mainclass.cpp(39): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Array<int>::arrRand(Array<int> &)"
+d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\myclass.h(282): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\myclass.h(78): warning C4715: Array<int>::operator=: значение возвращается не при всех путях выполнения
+d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\myclass.h(78): warning C4715: Array<double>::operator=: значение возвращается не при всех путях выполнения
+d:\материалы. 2-й курс\вариант 11\l_p\oop lab_5 release\oop lab_5 release\myclass.h(78): warning C4715: Array<Complex>::operator=: значение возвращается не при всех путях выполнения
+  OOP Lab_5 release.vcxproj -> D:\Материалы. 2-й курс\Вариант 11\L_P\OOP Lab_5 release\Debug\OOP Lab_5 release.exe
